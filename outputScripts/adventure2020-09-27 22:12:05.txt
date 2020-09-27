@@ -1,0 +1,120 @@
+Patron: Embattled merchant
+Villain: Humanoid cultist
+Ally: Inexperienced adventurer
+introduction: A ghost appears and terrorizes a village. research reveals that it can be put to rest only by entering the adventure location. 
+adventure: Escape from jail or a prison camp
+goal: Friend quandary
+complication: Discover the nature and origin of a strange phenomenon in the area
+side quest: The adventurers have received false or extraneous information
+twist: Traps, hazards, or animated objects turn against the adventurers while the main villain attacks
+climax: Monarchs ball
+
+
+Patron: Villain posing as a patron
+Villain: Humanoid conqueror
+Ally: Raving lunatic
+introduction: A mysterious magic item or cruel villain teleports the characters to the adventure location
+adventure: Retrieve an object from a caravan
+goal: Honor quandary
+complication: Retrieve a stolen item in the villains possession
+side quest: The adventurers must cooperate with a known enemy to acheive the goal
+twist: The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+climax: Midwinter festival
+
+
+Patron: Desperate commoner
+Villain: Humanoid cultist
+Ally: Priest
+introduction: An npc the characters care about needs them to go to the adventure location
+adventure: Rescue a captive
+goal: Moral quandary
+complication: Secure the aid of a character or creature in the area.
+side quest: The adventurers are racing against other creatures with the same or opposite goal
+twist: The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+climax: Athletic event
+
+
+Patron: Temple official
+Villain: Humanoid under a curse
+Ally: Inexperienced adventurer
+introduction: A town or village needs volunteers to go to the adventure location
+adventure: Foil a villains evil scheme
+goal: Honor quandary
+complication: Secure the aid of a character or creature in the area.
+side quest: Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+twist: The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+climax: Anniversary of an important event
+
+
+Patron: Military officer
+Villain: Humanoid raider or ravager
+Ally: Villain posing as an ally
+introduction: An npc the characters must obey orders them to go to the adventure location
+adventure: Win a bet or complete a rite of passage by surviving in the dungeon for a certain amount of time.
+goal: Honor quandary
+complication: Find a specific item rumored to be in the area
+side quest: The adventurers must cooperate with a known enemy to acheive the goal
+twist: The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+climax: Artistic performance
+
+
+Patron: Villain posing as a patron
+Villain: Humanoid seeking revenge
+Ally: Villain posing as an ally
+introduction: An npc the characters care about needs them to go to the adventure location
+adventure: Escape the reign of a tyrant
+goal: Moral quandary
+complication: Receive information from an npc in the area
+side quest: The adventurers must cooperate with a known enemy to acheive the goal
+twist: The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+climax: Royal audience day
+
+
+Patron: Local ruler
+Villain: Giant bent on plunder
+Ally: Priest
+introduction: A stranger approaches the characters in a tavern and urges them toward the adventure location 
+adventure: Find information needed for a special purpose
+goal: Ally quandary
+complication: Find a specific item rumored to be in the area
+side quest: Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+twist: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+climax: Migration of monsters
+
+
+Patron: Villain posing as a patron
+Villain: Humanoid cultist
+Ally: Villain posing as an ally
+introduction: An npc the characters care about needs them to go to the adventure location
+adventure: Retreive a stolen item hiddne in the dungeon
+goal: Ally quandary
+complication: Slay a specific monster
+side quest: The adventurers have received false or extraneous information
+twist: The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+climax: Lunar eclipse
+
+
+Patron: Mysterious fey
+Villain: Humanoid raider or ravager
+Ally: Soldier
+introduction: The adventurers find a map on a dead body. in addition to the map setting up the adventure, the villain wants the map.
+adventure: Seize control of a fortified location such as a fortress, town, or ship
+goal: Friend quandary
+complication: Rescue a captive
+side quest: The adventurers are under magical compulsion to complete their goal
+twist: The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+climax: Procession of ghosts
+
+
+Patron: Embattled merchant
+Villain: Humanoid cultist
+Ally: Sage
+introduction: A stranger approaches the characters in a tavern and urges them toward the adventure location 
+adventure: Hunt a specific monster
+goal: Rescue quandary
+complication: Rescue a captive
+side quest: Completing the goal secretly helps the villain
+twist: The adventurers race to the site where the villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed
+climax: New year
+
+

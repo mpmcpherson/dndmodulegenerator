@@ -1,0 +1,110 @@
+Patron: Embattled merchant
+Villain: Fey with mysterious goal
+Ally: Celestial ally
+introduction: A town or village needs volunteers to go to the adventure location
+adventure: Infiltrate a fortified location
+goal: Moral quandary
+complication: Discover the nature and origin of a strange phenomenon in the area
+side quest: The adventurers have two different goals, but they can complete only one
+twist: The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+
+
+Patron: Old friend
+Villain: Misguided humanoid zealot
+Ally: Villain posing as an ally
+introduction: One night, the characters all dream about entering the adventure location
+adventure: Obtain information from a reclusive hermit
+goal: Ally quandary
+complication: Receive information from an npc in the area
+side quest: The adventurers become responsible for the safety of a noncombatant npc
+twist: Traps, hazards, or animated objects turn against the adventurers while the main villain attacks
+
+
+Patron: Former teacher
+Villain: Fey with mysterious goal
+Ally: Raving lunatic
+introduction: While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+adventure: Smuggle weapons to rebel forces
+goal: Moral quandary
+complication: Discover the face of a missing npc
+side quest: Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+twist: The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+
+
+Patron: Temple official
+Villain: Humanoid under a curse
+Ally: Inexperienced adventurer
+introduction: A mysterious magic item or cruel villain teleports the characters to the adventure location
+adventure: Find the source of strange occurrences in a haunted house or other location
+goal: Rescue quandary
+complication: Rescue a captive
+side quest: The adventurers have received false or extraneous information
+twist: The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+
+
+Patron: Former teacher
+Villain: Humanoid raider or ravager
+Ally: Revenge seeker
+introduction: While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+adventure: Map a new land 
+goal: Moral quandary
+complication: Retrieve a stolen item in the villains possession
+side quest: The adventurers are prohibited from killing the villain, but the villain has no compunctions about killing them
+twist: The villain and two or three lieutenants perform separate rites in a large room. the adventurers must disrupt all the rites at the same time.
+
+
+Patron: Mysterious fey
+Villain: Beast or monstrosity with no particular agenda
+Ally: Enthusiastic commoner
+introduction: An npc the characters must obey orders them to go to the adventure location
+adventure: Discover the nature and origin of a strange location or phenomenin
+goal: Honor quandary
+complication: Find a specific item rumored to be in the area
+side quest: The adventurers have a time limit
+twist: Traps, hazards, or animated objects turn against the adventurers while the main villain attacks
+
+
+Patron: Respected elder
+Villain: Fey with mysterious goal
+Ally: Revenge seeker
+introduction: A stranger approaches the characters in a tavern and urges them toward the adventure location 
+adventure: Assess the scope of a natural or unnatural disaster
+goal: Honor quandary
+complication: Rescue a captive
+side quest: The adventurers have a time limit
+twist: The actions of the adventurers or the villain result in a cataclysmic event that the adventurers must escape.
+
+
+Patron: Military officer
+Villain: Fey with mysterious goal
+Ally: Celestial ally
+introduction: An npc the characters care about needs them to go to the adventure location
+adventure: Hunt a specific monster
+goal: Rescue quandary
+complication: Slay a specific monster
+side quest: The adventurers have a time limit
+twist: The adventurers confront the main villain and a group of minions in a bloody battle ot the inish.
+
+
+Patron: Retired adventurer
+Villain: Undead with any agenda
+Ally: Raving lunatic
+introduction: While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+adventure: Find a place to establish a colony
+goal: Respect quandary
+complication: Slay a specific monster
+side quest: The adventurers are prohibited from killing the villain, but the villain has no compunctions about killing them
+twist: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+
+
+Patron: Respected elder
+Villain: Beast or monstrosity with no particular agenda
+Ally: Sage
+introduction: While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location
+adventure: Smuggle weapons to rebel forces
+goal: Moral quandary
+complication: Secure the aid of a character or creature in the area.
+side quest: Completing the goal secretly helps the villain
+twist: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+
+

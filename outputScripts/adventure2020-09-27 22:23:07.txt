@@ -1,0 +1,110 @@
+Patron: Temple official
+Villain: Humanoid conqueror
+Ally: Sage
+introduction: A ghost appears and terrorizes a village. research reveals that it can be put to rest only by entering the adventure location. 
+goal: Escape from jail or a prison camp
+complication: Moral quandary
+side quest: Secure the aid of a character or creature in the area.
+twist: The adventurers are under magical compulsion to complete their goal
+climax: An ally betrays the adventurers as theyre about to achieve their goal (use sparingly)
+
+
+Patron: Former teacher
+Villain: Fey with mysterious goal
+Ally: Fey ally
+introduction: While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location
+goal: Escape the reign of a tyrant
+complication: Honor quandary
+side quest: Find a specific item rumored to be in the area
+twist: The adventurers become responsible for the safety of a noncombatant npc
+climax: The adventurers race to the site where the villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed
+
+
+Patron: Temple official
+Villain: Undead with any agenda
+Ally: Enthusiastic commoner
+introduction: An npc the characters care about needs them to go to the adventure location
+goal: Protect or hide an npc
+complication: Honor quandary
+side quest: 
+twist: The adventurers are under magical compulsion to complete their goal
+climax: The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+
+
+Patron: Respected elder
+Villain: Humanoid schemer seeking to rule
+Ally: Priest
+introduction: A ghost appears and terrorizes a village. research reveals that it can be put to rest only by entering the adventure location. 
+goal: Find a natural resource
+complication: Friend quandary
+side quest: Slay a specific monster
+twist: The adventurers must cooperate with a known enemy to acheive the goal
+climax: The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+
+
+Patron: Parent or other family member
+Villain: Beast or monstrosity with no particular agenda
+Ally: Soldier
+introduction: The adventurers find a map on a dead body. in addition to the map setting up the adventure, the villain wants the map.
+goal: Parley with a villan in the dungeon
+complication: Rescue quandary
+side quest: 
+twist: The adventurers must cooperate with a known enemy to acheive the goal
+climax: The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+
+
+Patron: Former teacher
+Villain: Humanoid criminal mastermind
+Ally: Revenge seeker
+introduction: An npc the characters respect asks them to go to the adventure location
+goal: Acquire treasure
+complication: Respect quandary
+side quest: Slay a specific monster
+twist: Completing the goal secretly helps the villain
+climax: The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+
+
+Patron: Old friend
+Villain: Beast or monstrosity with no particular agenda
+Ally: Sage
+introduction: While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+goal: Protect an object
+complication: Rescue quandary
+side quest: Discover the nature and origin of a strange phenomenon in the area
+twist: The adventurers are racing against other creatures with the same or opposite goal
+climax: The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+
+
+Patron: Temple official
+Villain: Undead with any agenda
+Ally: Villain posing as an ally
+introduction: A stranger approaches the characters in a tavern and urges them toward the adventure location 
+goal: Map a new land 
+complication: 
+side quest: Discover the nature and origin of a strange phenomenon in the area
+twist: The adventurers must cooperate with a known enemy to acheive the goal
+climax: The villain and two or three lieutenants perform separate rites in a large room. the adventurers must disrupt all the rites at the same time.
+
+
+Patron: Local ruler
+Villain: Abberation bent on corruption or destruction
+Ally: Skilled adventurer
+introduction: A stranger approaches the characters in a tavern and urges them toward the adventure location 
+goal: Make sure a wedding goes off without a hitch
+complication: Honor quandary
+side quest: Receive information from an npc in the area
+twist: Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+climax: Traps, hazards, or animated objects turn against the adventurers while the main villain attacks
+
+
+Patron: Old friend
+Villain: Dragon bent of domination and plunder
+Ally: Enthusiastic commoner
+introduction: A town or village needs volunteers to go to the adventure location
+goal: Discover the nature and origin of a strange phenomenon that might be the villains doing
+complication: Moral quandary
+side quest: Retrieve a stolen item in the villains possession
+twist: The adventurers have received false or extraneous information
+climax: The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+
+

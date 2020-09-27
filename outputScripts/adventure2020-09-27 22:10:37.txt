@@ -1,0 +1,120 @@
+Patron: Military officer
+Villain: Humanoid conqueror
+Ally: Sage
+introduction: While traveling in the wilderness, the characters notice the entrance to the adventure location
+adventure: Find an object that was lost in the wilds
+goal: Moral quandary
+complication: Retrieve a stolen item in the villains possession
+side quest: The adventurers are prohibited from killing the villain, but the villain has no compunctions about killing them
+twist: The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+climax: Lunar eclipse
+
+
+Patron: Sage
+Villain: Beast or monstrosity with no particular agenda
+Ally: Raving lunatic
+introduction: An npc the characters must obey orders them to go to the adventure location
+adventure: Find information needed for a special purpose
+goal: Respect quandary
+complication: Retrieve a stolen item in the villains possession
+side quest: The adventurers become responsible for the safety of a noncombatant npc
+twist: An ally betrays the adventurers as theyre about to achieve their goal (use sparingly)
+climax: Royal address or proclamation
+
+
+Patron: Temple official
+Villain: Humanoid raider or ravager
+Ally: Inexperienced adventurer
+introduction: A town or village needs volunteers to go to the adventure location
+adventure: Foil a villains evil scheme
+goal: Friend quandary
+complication: Discover the face of a missing npc
+side quest: The adventurers are racing against other creatures with the same or opposite goal
+twist: The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+climax: Full moon
+
+
+Patron: Sage
+Villain: Humanoid criminal mastermind
+Ally: Soldier
+introduction: The adventurers find a map on a dead body. in addition to the map setting up the adventure, the villain wants the map.
+adventure: Fursue fleeting foes taking refuge in the dungeon
+goal: Rescue quandary
+complication: Receive information from an npc in the area
+side quest: The adventurers have received false or extraneous information
+twist: The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+climax: Civic festival
+
+
+Patron: Deity or celestial
+Villain: Beast or monstrosity with no particular agenda
+Ally: Revenge seeker
+introduction: While traveling in the wilderness, the characters notice the entrance to the adventure location
+adventure: Parley with a villan in the dungeon
+goal: Friend quandary
+complication: Retrieve a stolen item in the villains possession
+side quest: Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+twist: The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+climax: Holy day
+
+
+Patron: Local ruler
+Villain: Humanoid cultist
+Ally: Sage
+introduction: A stranger approaches the characters in a tavern and urges them toward the adventure location 
+adventure: Overthrow a tyrant
+goal: Respect quandary
+complication: Discover the nature and origin of a strange phenomenon in the area
+side quest: The adventurers are prohibited from killing the villain, but the villain has no compunctions about killing them
+twist: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+climax: Planar conjunction
+
+
+Patron: Military officer
+Villain: Misguided humanoid zealot
+Ally: Priest
+introduction: While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+adventure: Win a tournament
+goal: Rescue quandary
+complication: Slay a specific monster
+side quest: The adventurers are prohibited from killing the villain, but the villain has no compunctions about killing them
+twist: The adventurers race to the site where the villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed
+climax: Royal audience day
+
+
+Patron: Old friend
+Villain: Giant bent on plunder
+Ally: Fey ally
+introduction: An npc the characters respect asks them to go to the adventure location
+adventure: Find an npc who disappeared in the area
+goal: Respect quandary
+complication: Discover the face of a missing npc
+side quest: Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+twist: The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+climax: Investiture of a knight or other noble
+
+
+Patron: Desperate commoner
+Villain: Humanoid under a curse
+Ally: Revenge seeker
+introduction: A town or village needs volunteers to go to the adventure location
+adventure: Defend a location frmo attackers
+goal: Respect quandary
+complication: Secure the aid of a character or creature in the area.
+side quest: The adventurers have received false or extraneous information
+twist: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+climax: New year
+
+
+Patron: Temple official
+Villain: Beast or monstrosity with no particular agenda
+Ally: Inexperienced adventurer
+introduction: While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location
+adventure: Help a villain find redemption
+goal: Respect quandary
+complication: Find a specific item rumored to be in the area
+side quest: The adventurers must cooperate with a known enemy to acheive the goal
+twist: The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+climax: Funeral
+
+

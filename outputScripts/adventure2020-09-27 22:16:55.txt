@@ -1,0 +1,110 @@
+Patron: Old friend
+Villain: Giant bent on plunder
+Ally: Villain posing as an ally
+introduction: An npc the characters care about needs them to go to the adventure location
+goal: Stop monsters from raiding caravans and farms
+complication: Honor quandary
+side quest: Discover the face of a missing npc
+twist: The adventurers have two different goals, but they can complete only one
+climax: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+
+
+Patron: Old friend
+Villain: Humanoid criminal mastermind
+Ally: Inexperienced adventurer
+introduction: One night, the characters all dream about entering the adventure location
+goal: Seize control of a fortified location such as a fortress, town, or ship
+complication: Honor quandary
+side quest: Discover the fate of a missing npc
+twist: The adventurers are racing against other creatures with the same or opposite goal
+climax: The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+
+
+Patron: Deity or celestial
+Villain: Abberation bent on corruption or destruction
+Ally: Raving lunatic
+introduction: A mysterious magic item or cruel villain teleports the characters to the adventure location
+goal: Discover the fate of a missing group of explorers
+complication: Honor quandary
+side quest: Receive information from an npc in the area
+twist: The adventurers have received false or extraneous information
+climax: The adventurers confront the main villain and a group of minions in a bloody battle ot the inish.
+
+
+Patron: Respected elder
+Villain: Humanoid cultist
+Ally: Priest
+introduction: An npc the characters must obey orders them to go to the adventure location
+goal: Parley with a villan in the dungeon
+complication: Friend quandary
+side quest: Secure the aid of a character or creature in the area.
+twist: The adventurers are racing against other creatures with the same or opposite goal
+climax: The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+
+
+Patron: Desperate commoner
+Villain: Humanoid conqueror
+Ally: Sage
+introduction: A mysterious magic item or cruel villain teleports the characters to the adventure location
+goal: Successfully travel through an obstacle course to gain recognition or reward
+complication: Ally quandary
+side quest: Discover the face of a missing npc
+twist: The adventurers are under magical compulsion to complete their goal
+climax: The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+
+
+Patron: Old friend
+Villain: Humanoid conqueror
+Ally: Disguised monster
+introduction: While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location
+goal: Secure aid from a ruler or council
+complication: Rescue quandary
+side quest: Find a specific item rumored to be in the area
+twist: The adventurers have a time limit
+climax: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+
+
+Patron: Temple official
+Villain: Fey with mysterious goal
+Ally: Priest
+introduction: One night, the characters all dream about entering the adventure location
+goal: Slay a dragon or some other challenging moster
+complication: Friend quandary
+side quest: Discover the face of a missing npc
+twist: The adventurers must cooperate with a known enemy to acheive the goal
+climax: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+
+
+Patron: Deity or celestial
+Villain: Giant bent on plunder
+Ally: Skilled adventurer
+introduction: While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+goal: Find a natural resource
+complication: Friend quandary
+side quest: Discover the nature and origin of a strange phenomenon in the area
+twist: Completing the goal secretly helps the villain
+climax: A portal opens to another plane of existence. creatures on the other side spill out, forcing the adventurers to close the portal and deal with the villain at the same time.
+
+
+Patron: Former teacher
+Villain: Humanoid schemer seeking to rule
+Ally: Celestial ally
+introduction: An npc the characters must obey orders them to go to the adventure location
+goal: Escape from jail or a prison camp
+complication: Moral quandary
+side quest: Slay a specific monster
+twist: The adventurers are under magical compulsion to complete their goal
+climax: The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+
+
+Patron: Temple official
+Villain: Humanoid raider or ravager
+Ally: Raving lunatic
+introduction: An npc the characters care about needs them to go to the adventure location
+goal: Win a tournament
+complication: Moral quandary
+side quest: Retrieve a stolen item in the villains possession
+twist: The adventurers are racing against other creatures with the same or opposite goal
+climax: The adventurers confront the main villain and a group of minions in a bloody battle ot the inish.
+
+

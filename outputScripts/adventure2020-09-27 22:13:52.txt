@@ -1,0 +1,110 @@
+Patron: Mysterious fey
+Villain: Humanoid schemer seeking to rule
+Ally: Skilled adventurer
+introduction: A mysterious magic item or cruel villain teleports the characters to the adventure location
+adventure: Defend a location frmo attackers
+goal: Honor quandary
+complication: Secure the aid of a character or creature in the area.
+side quest: The adventurers are racing against other creatures with the same or opposite goal
+twist: The villain and two or three lieutenants perform separate rites in a large room. the adventurers must disrupt all the rites at the same time.
+
+
+Patron: Embattled merchant
+Villain: Humanoid seeking revenge
+Ally: Raving lunatic
+introduction: A stranger approaches the characters in a tavern and urges them toward the adventure location 
+adventure: Overthrow a tyrant
+goal: Ally quandary
+complication: Find a specific item rumored to be in the area
+side quest: The adventurers are racing against other creatures with the same or opposite goal
+twist: The adventurers race to the site where the villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed
+
+
+Patron: Respected elder
+Villain: Abberation bent on corruption or destruction
+Ally: Skilled adventurer
+introduction: While traveling in the wilderness, the characters notice the entrance to the adventure location
+adventure: Smuggle weapons to rebel forces
+goal: Moral quandary
+complication: Discover the nature and origin of a strange phenomenon in the area
+side quest: The adventurers have two different goals, but they can complete only one
+twist: The adventurers race to the site where the villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed
+
+
+Patron: Military officer
+Villain: Humanoid raider or ravager
+Ally: Priest
+introduction: While traveling in the wilderness, the characters notice the entrance to the adventure location
+adventure: Overthrow a tyrant
+goal: Rescue quandary
+complication: Find a specific item rumored to be in the area
+side quest: The adventurers must cooperate with a known enemy to acheive the goal
+twist: Traps, hazards, or animated objects turn against the adventurers while the main villain attacks
+
+
+Patron: Parent or other family member
+Villain: Fey with mysterious goal
+Ally: Fey ally
+introduction: One night, the characters all dream about entering the adventure location
+adventure: Locate a dungeon or other site of interest
+goal: Respect quandary
+complication: Discover the nature and origin of a strange phenomenon in the area
+side quest: Completing the goal secretly helps the villain
+twist: The adventurers confront the main villain and a group of minions in a bloody battle ot the inish.
+
+
+Patron: Military officer
+Villain: Beast or monstrosity with no particular agenda
+Ally: Priest
+introduction: A town or village needs volunteers to go to the adventure location
+adventure: Bring the villain to justice
+goal: Moral quandary
+complication: Receive information from an npc in the area
+side quest: The adventurers are under magical compulsion to complete their goal
+twist: The adventurers race to the site where the villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed
+
+
+Patron: Local ruler
+Villain: Humanoid conqueror
+Ally: Disguised monster
+introduction: While traveling in the wilderness, the characters notice the entrance to the adventure location
+adventure: Rescue a character, monster, or object from a natural or unnatural disaster
+goal: Honor quandary
+complication: Rescue a captive
+side quest: The adventurers have received false or extraneous information
+twist: An ally betrays the adventurers as theyre about to achieve their goal (use sparingly)
+
+
+Patron: Temple official
+Villain: Misguided humanoid zealot
+Ally: Sage
+introduction: The adventurers find a map on a dead body. in addition to the map setting up the adventure, the villain wants the map.
+adventure: Discover the fate of a missing group of explorers
+goal: Respect quandary
+complication: Retrieve a stolen item in the villains possession
+side quest: Completing the goal secretly helps the villain
+twist: An ally betrays the adventurers as theyre about to achieve their goal (use sparingly)
+
+
+Patron: Old friend
+Villain: Humanoid raider or ravager
+Ally: Priest
+introduction: A ghost appears and terrorizes a village. research reveals that it can be put to rest only by entering the adventure location. 
+adventure: Locate a dungeon or other site of interest
+goal: Respect quandary
+complication: Slay a specific monster
+side quest: The adventurers must cooperate with a known enemy to acheive the goal
+twist: An ally betrays the adventurers as theyre about to achieve their goal (use sparingly)
+
+
+Patron: Military officer
+Villain: Humanoid conqueror
+Ally: Disguised monster
+introduction: While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location
+adventure: Uncover a conspiracy to overthrow a ruler
+goal: Friend quandary
+complication: Retrieve a stolen item in the villains possession
+side quest: The adventurers become responsible for the safety of a noncombatant npc
+twist: The actions of the adventurers or the villain result in a cataclysmic event that the adventurers must escape.
+
+

@@ -1,0 +1,120 @@
+Patron: Deity or celestial
+Villain: Fey with mysterious goal
+Ally: Raving lunatic
+A stranger approaches the characters in a tavern and urges them toward the adventure location 
+Find a particular item for a specific purpose
+Friend quandary
+Discover the face of a missing npc
+The adventurers must cooperate with a known enemy to acheive the goal
+The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+Framing Event: Planar conjunction
+
+
+Patron: Local ruler
+Villain: Giant bent on plunder
+Ally: Enthusiastic commoner
+One night, the characters all dream about entering the adventure location
+Rescue a character, monster, or object from a natural or unnatural disaster
+Moral quandary
+Find a specific item rumored to be in the area
+Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+The actions of the adventurers or the villain result in a cataclysmic event that the adventurers must escape.
+Framing Event: Midsummer festival
+
+
+Patron: Desperate commoner
+Villain: Undead with any agenda
+Ally: Revenge seeker
+While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location
+Protect an object
+Honor quandary
+Receive information from an npc in the area
+Completing an adventure goal filfills a prophecy or prevents the fulfillment of a phrophecy
+The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+Framing Event: Remembrance for soldiers lost in war
+
+
+Patron: Villain posing as a patron
+Villain: Beast or monstrosity with no particular agenda
+Ally: Skilled adventurer
+An npc the characters must obey orders them to go to the adventure location
+Find the source of strange occurrences in a haunted house or other location
+Rescue quandary
+Retrieve a stolen item in the villains possession
+Completing the goal secretly helps the villain
+The adventurers confront the main villain and a group of minions in a bloody battle ot the inish.
+Framing Event: Full moon
+
+
+Patron: Old friend
+Villain: Humanoid criminal mastermind
+Ally: Skilled adventurer
+The adventurers find a map on a dead body. in addition to the map setting up the adventure, the villain wants the map.
+Find an object that was lost in the wilds
+Rescue quandary
+Slay a specific monster
+The adventurers must cooperate with a known enemy to acheive the goal
+The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+Framing Event: Migration of monsters
+
+
+Patron: Parent or other family member
+Villain: Humanoid cultist
+Ally: Inexperienced adventurer
+While traveling in the wilderness, the characters fall into a sinkhole that opens beneath their feet, dropping them into the adventure location
+Defend a location frmo attackers
+Honor quandary
+Rescue a captive
+The adventurers have a time limit
+The adventurers must choose whether to persue the fleeing main villain or save an npc they care about or a group or innocents.
+Framing Event: Civic festival
+
+
+Patron: Military officer
+Villain: Humanoid seeking revenge
+Ally: Soldier
+A mysterious magic item or cruel villain teleports the characters to the adventure location
+Find a natural resource
+Moral quandary
+Discover the face of a missing npc
+The adventurers must cooperate with a known enemy to acheive the goal
+The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+Framing Event: Arrival of marching modrons
+
+
+Patron: Deity or celestial
+Villain: Humanoid raider or ravager
+Ally: Disguised monster
+One night, the characters all dream about entering the adventure location
+Discover the fate of a missing group of explorers
+Honor quandary
+Slay a specific monster
+The adventurers are racing against other creatures with the same or opposite goal
+The adventurers confront the main villain and a group of minions in a bloody battle ot the inish.
+Framing Event: New moon
+
+
+Patron: Former teacher
+Villain: Humanoid criminal mastermind
+Ally: Revenge seeker
+One night, the characters all dream about entering the adventure location
+Protect a wilderness site from attackers
+Rescue quandary
+Receive information from an npc in the area
+Completing the goal secretly helps the villain
+The adventurers race to the site where the villain is bringing a master plan to its conclusion, arriving just as that plan is about to be completed
+Framing Event: New moon
+
+
+Patron: Temple official
+Villain: Humanoid criminal mastermind
+Ally: Villain posing as an ally
+The adventurers find a map on a dead body. in addition to the map setting up the adventure, the villain wants the map.
+Overthrow a tyrant
+Respect quandary
+Discover the nature and origin of a strange phenomenon in the area
+Completing the goal secretly helps the villain
+The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+Framing Event: Royal audience day
+
+

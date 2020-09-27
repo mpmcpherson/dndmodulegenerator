@@ -1,0 +1,120 @@
+Patron: Retired adventurer
+Villain: Humanoid criminal mastermind
+Ally: Inexperienced adventurer
+A ghost appears and terrorizes a village. research reveals that it can be put to rest only by entering the adventure location. 
+Determine the villains identity
+Ally quandary
+Find a specific item rumored to be in the area
+The adventurers have a time limit
+The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+Wedding or wedding anniversary
+
+
+Patron: Desperate commoner
+Villain: Humanoid raider or ravager
+Ally: Skilled adventurer
+A stranger approaches the characters in a tavern and urges them toward the adventure location 
+Arrive at a destination without being seen by the villains forces
+Moral quandary
+Find a specific item rumored to be in the area
+The adventurers have two different goals, but they can complete only one
+The dungeon begins to collapse while the adventurers face the main villain, who attempts to escape in the chaos
+Arrival of marching modrons
+
+
+Patron: Former teacher
+Villain: Beast or monstrosity with no particular agenda
+Ally: Skilled adventurer
+While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+Find a wanted fugitiev
+Moral quandary
+Slay a specific monster
+Completing the goal secretly helps the villain
+An ally betrays the adventurers as theyre about to achieve their goal (use sparingly)
+Full moon
+
+
+Patron: Deity or celestial
+Villain: Fey with mysterious goal
+Ally: Sage
+A ghost appears and terrorizes a village. research reveals that it can be put to rest only by entering the adventure location. 
+Find a place to establish a colony
+Ally quandary
+Slay a specific monster
+The adventurers have received false or extraneous information
+The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+Arrival of marching modrons
+
+
+Patron: Parent or other family member
+Villain: Humanoid conqueror
+Ally: Revenge seeker
+An npc the characters must obey orders them to go to the adventure location
+Assess the size of an approaching army
+Moral quandary
+Rescue a captive
+The adventurers are racing against other creatures with the same or opposite goal
+The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+New year
+
+
+Patron: Retired adventurer
+Villain: Dragon bent of domination and plunder
+Ally: Fey ally
+One night, the characters all dream about entering the adventure location
+Acquire treasure
+Honor quandary
+Discover the nature and origin of a strange phenomenon in the area
+The adventurers are racing against other creatures with the same or opposite goal
+The adventurers chase the villain while dodging obstacles designed to thwart them, leading to a final confrontation in or outside the villains refuge
+Lunar eclipse
+
+
+Patron: Desperate commoner
+Villain: Misguided humanoid zealot
+Ally: Disguised monster
+While traveling on a road, the characters are attacked by monsters that flee into the nearby adventure location
+Foil a villains evil scheme
+Friend quandary
+Discover the face of a missing npc
+The adventurers are racing against other creatures with the same or opposite goal
+The actions of the adventurers or the villain result in a cataclysmic event that the adventurers must escape.
+Civic festival
+
+
+Patron: Embattled merchant
+Villain: Humanoid cultist
+Ally: Enthusiastic commoner
+One night, the characters all dream about entering the adventure location
+Retrieve an object from a caravan
+Ally quandary
+Receive information from an npc in the area
+The adventurers are under magical compulsion to complete their goal
+The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+Arrival of a circus
+
+
+Patron: Temple official
+Villain: Misguided humanoid zealot
+Ally: Celestial ally
+A ghost appears and terrorizes a village. research reveals that it can be put to rest only by entering the adventure location. 
+Secure aid from a ruler or council
+Friend quandary
+Secure the aid of a character or creature in the area.
+The adventurers are under magical compulsion to complete their goal
+The adventurers must discover the main villains secret weakness before they can hope to defeat that villain.
+Royal address or proclamation
+
+
+Patron: Deity or celestial
+Villain: Beast or monstrosity with no particular agenda
+Ally: Skilled adventurer
+A town or village needs volunteers to go to the adventure location
+Bring the villain to justice
+Rescue quandary
+Receive information from an npc in the area
+The adventurers have a time limit
+The adventurers confront the main villain and a group of minions in a bloody battle ot the inish.
+New moon
+
+
