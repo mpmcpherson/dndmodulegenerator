@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>Random adventure plot generator</title>
+<title>Random settlement feature generator</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 <?php 
 	$log = getUserIpAddr();
@@ -32,10 +32,10 @@
 <body style="background-color: #edefd3;">
 	<div id="container">
 		<div id="header">
-			<h3>Built from DMG charts; generate ten start to finish plots</h3>
+			<h3>Built from DMG charts; generate ten random settlements</h3>
 		</div>
 		<div id="body">
-			<button id="btn">Generate some plots</button>
+			<button id="btn">Generate some places</button>
 			<div id="results"></div>
 		</div>
 	</div>
@@ -50,7 +50,7 @@
 	button.addEventListener('click', function() {
 		console.log("hit click");
 
-  		getRequest('basicGenerator.php',
+  		getRequest('settlementGenerator.php',
   			function(response){
   				//console.log(response);
   				resultDiv.innerHTML = response;

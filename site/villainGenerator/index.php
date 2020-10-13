@@ -2,13 +2,14 @@
 
 <html>
 <head>
-<title>Random plot generator</title>
+<title>Random villain generator</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
 <?php 
 	$log = getUserIpAddr();
 	
 	$log = $log . "\n" . $_SERVER['HTTP_USER_AGENT'];
 
-	file_put_contents("logs/access".gmdate("Y-m-d H:i:s") . ".txt", $log);
+	file_put_contents("../logs/access".gmdate("Y-m-d H:i:s") . ".txt", $log);
 	
 	unset($log);
 
@@ -31,10 +32,10 @@
 <body style="background-color: #edefd3;">
 	<div id="container">
 		<div id="header">
-			<h3>Built from DMG charts; generate ten start to finish plots</h3>
+			<h3>Built from DMG charts; generate some villains for your adventures</h3>
 		</div>
 		<div id="body">
-			<button id="btn">Generate some plots</button>
+			<button id="btn">Generate some villains</button>
 			<div id="results"></div>
 		</div>
 	</div>
@@ -49,7 +50,7 @@
 	button.addEventListener('click', function() {
 		console.log("hit click");
 
-  		getRequest('basicGenerator.php',
+  		getRequest('villainGenerator.php',
   			function(response){
   				//console.log(response);
   				resultDiv.innerHTML = response;

@@ -1,32 +1,25 @@
 <?php
+	$val = scandir('.');
 
-//$dir = array();
-//array_push($dir, "./");
+	$out = array();
 
-$val = scandir('.');
+	$files = array_slice($val,2);
 
-$out = array();
-
-$files = array_slice($val,2);
-
-for($i=0;$i<count($files);$i++)
-{
-	if(strpos($files[$i],'.')=== false)
+	for($i=0;$i<count($files);$i++)
 	{
-		array_push($out, $files[$i]);
+		if(strpos($files[$i],'.')=== false&&strpos($files[$i],'logs')===false)
+		{
+			array_push($out, $files[$i]);
+		}
 	}
-
-}
-
 ?>
-
-<!DOCTYPE html>
-
 <html>
 <head>
-<title>Random plot generator</title>
+<title>Random RPG Stuff Generators</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
 <?php
-/* 
+ 
 	$log = getUserIpAddr();
 	
 	$log = $log . "\n" . $_SERVER['HTTP_USER_AGENT'];
@@ -46,11 +39,10 @@ for($i=0;$i<count($files);$i++)
         $ip = $_SERVER['REMOTE_ADDR'];
     }
     return $ip;
-}
-*/
-?>	
+	}
+?>
+<link rel="stylesheet" href="style.css">
 </head>
-
 <body style="background-color: #edefd3;">
 	<div id="container">
 		<div id="header">
@@ -59,88 +51,27 @@ for($i=0;$i<count($files);$i++)
 		<div id="body">
 			<?php 
 			for($i=0;$i<count($out);$i++)
-			{
-				
-				echo "<a href='/".$out[$i]."' id='btn".$i."'>".$out[$i]."</a><br/>";
-
+			{		
+				echo "<div class='link' id='".$out[$i]."'>".$out[$i]."</div><br/>";
 			}
 			?>
 			<div id="results"></div>
 		</div>
 	</div>
+<script
+>	document.addEventListener("DOMContentLoaded", (event) => {
+
+	//let's make those stupid hrefs into clickable divs
+	let linx = document.getElementsByClassName("link");
+	for(let i = 0;i<linx.length; i++)
+	{
+		linx[i].addEventListener('click', function(){
+			//console.log(window.location+""+linx[i].id);
+			window.location.href=window.location+""+linx[i].id;
+		});
+	}
+});
+
+</script>
 </body>	
 </html>
-
-<?php /*
-<script type="text/javascript">
-	var button = document.getElementById('btn');
-	var resultDiv = document.getElementById('results');
-
- 
-	button.addEventListener('click', function() {
-		console.log("hit click");
-
-  		getRequest('basicGenerator.php',
-  			function(response){
-  				//console.log(response);
-  				resultDiv.innerHTML = response;
-  			},
-  			function(response){
-  				resultDiv.innerHTML = 'An error occurred during your request: ' +  response.status + ' ' + response.statusText;
-  			},
-  			null);
-	});
-
-
-
-// helper function for cross-browser request object
-	function getRequest(url, success, error, params) {
-	    var req = false;
-	    try{
-	        // most browsers
-	        req = new XMLHttpRequest();
-	    } catch (e){
-	        // IE
-	        try{
-	            req = new ActiveXObject("Msxml2.XMLHTTP");
-	        } catch(e) {
-	            // try an older version
-	            try{
-	                req = new ActiveXObject("Microsoft.XMLHTTP");
-	            } catch(e) {
-	                return false;
-	            }
-	        }
-	    }
-	    if (!req) return false;
-	    if (typeof success != 'function') success = function () {};
-	    if (typeof error!= 'function') error = function () {};
-
-
-
-	    if(params != null){
-
-	        req.open("GET", url+"?"+params, true);
-	        req.setRequestHeader('Cache-Control', 'no-cache');
-
-	    }else {
-	        req.open("GET", url, true);
-	    	req.setRequestHeader('Cache-Control', 'no-cache');
-	    }
-
-
-	    req.onreadystatechange = function(){
-	        if(req.readyState == 4) {
-	            return req.status === 200 ?
-	                success(req.responseText) : error(req.status);
-	        }
-	    };
-
-
-	    req.send(null);
-	    return req;
-	}
-</script>
-
-*/
-?>
