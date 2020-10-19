@@ -58,8 +58,8 @@
 			<div id="results"></div>
 		</div>
 	</div>
-<script
->	document.addEventListener("DOMContentLoaded", (event) => {
+<script>
+	document.addEventListener("DOMContentLoaded", (event) => {
 
 	//let's make those stupid hrefs into clickable divs
 	let linx = document.getElementsByClassName("link");
