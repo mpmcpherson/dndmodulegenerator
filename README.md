@@ -6,3 +6,7 @@ and concatenation. It's nothing special, but it presents data in a coherent way 
 with about twenty minutes of prep (at this point, it's mostly building and reskinning the encounters that takes the most
 time --and just watch for a generator for that, too!) rather than several hours while I agonize over the relative merits 
 of two almost-identical options.
+
+
+Branch SPA
+	Let's roll this over to a single page application and use my little default UI project to wrap it.
