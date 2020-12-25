@@ -79,6 +79,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "site/index.php",
+			"settings":
+			{
+				"buffer_size": 1743,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site/pierrefrancoisdulac.php",
+			"settings":
+			{
+				"buffer_size": 585,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -144,7 +162,8 @@
 	},
 	"expanded_folders":
 	[
-		"/home/michaelmcpherson/src/DnDModuleGenerator"
+		"/home/michaelmcpherson/src/DnDModuleGenerator",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site"
 	],
 	"file_history":
 	[
@@ -310,8 +329,66 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "site/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1683,
+								1683
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "site/pierrefrancoisdulac.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],

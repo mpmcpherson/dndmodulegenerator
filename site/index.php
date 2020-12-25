@@ -73,5 +73,6 @@
 });
 
 </script>
+<?php require 'pierrefrancoisdulac.php'; ?>
 </body>	
 </html>
