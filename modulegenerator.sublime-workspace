@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"header",
+				"headerAry"
+			],
+			[
+				"file",
+				"file_get_contents"
+			],
+			[
+				"htmlspec",
+				"htmlspecialchars_decode"
+			],
+			[
+				"serializ",
+				"v8.serialize"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"tinymc",
+				"tinymce"
+			],
+			[
+				"enco",
+				"encodeText"
+			],
+			[
+				"bl",
+				"inline-block\tdisplay"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"thee",
+				"theEnd"
+			],
+			[
+				"htmlsp",
+				"htmlspecialchars_decode"
+			],
+			[
+				"htmlspe",
+				"htmlspecialchars"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"pritn",
+				"print_r"
+			],
+			[
+				"recurs",
+				"recurseList\tstatement"
+			],
+			[
+				"obj",
+				"objName\tparam"
+			],
+			[
+				"ob",
+				"objName\tparam"
+			],
+			[
+				"filea",
+				"fileAryElem"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Add Repository"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 193.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/michaelmcpherson/src/DnDModuleGenerator"
+	],
+	"file_history":
+	[
+		"/home/michaelmcpherson/src/connTime/resources/defaultConnector.php",
+		"/home/michaelmcpherson/src/roundtable/webmethods/loadNodes.php",
+		"/home/michaelmcpherson/src/connTime/resources/dateTimeHandler.php",
+		"/home/michaelmcpherson/src/connTime/conn.sh",
+		"/home/michaelmcpherson/src/connTime/scratchpad",
+		"/home/michaelmcpherson/Downloads/cpuflags.txt",
+		"/home/michaelmcpherson/src/roundtable/webmethods/addTask.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/resources/postHandler.php",
+		"/home/michaelmcpherson/src/gitRecurse/bintest.sh",
+		"/home/michaelmcpherson/src/writtenRecords/how to symbolic link your www-http folder to dev source",
+		"/home/michaelmcpherson/src/roundtable/webmethods/addUserToTeam.php",
+		"/home/michaelmcpherson/src/connTime/.gitignore",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/phprc",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/index.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/js/helper.js",
+		"/home/michaelmcpherson/src/clientSideBlogger/README.md",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/resources/SFTPConnector.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/teasant.php",
+		"/var/www/html/blags/resources/postHandler.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/resources/loadPost.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/resources/postHandler.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/snippets.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/index.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/css/style.css",
+		"/var/www/html/blogBase/resources/postHandler.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/resources/config.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/css/buttons.css",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/resources/dbConnector.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/css/style.css",
+		"/home/michaelmcpherson/Documents/factualpass",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/resources/mongoConnector.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/loremTypical",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/pirateIpsum",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/worseHipster",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/lorem1.txt",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/kafka.txt",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/hipSum.txt",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/LatinCicero",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/posts/EnglishCicero",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/resources/linkLoader.php",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/frontEnd/resources/config.php",
+		"/home/michaelmcpherson/Documents/passcodes",
+		"/etc/php/7.3/cli/php.ini",
+		"/home/michaelmcpherson/src/clientSideBlogger/.gitignore",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/js/themes/silver/theme.js",
+		"/home/michaelmcpherson/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/index.php",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site/index.php",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/index.php",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/Plot Episode 5",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/Plot Episode 6",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/Plot Episode 4",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/Plot Episode 3",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/plot episode 1",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/Plot Episode 2",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/css/wysiwyg.css",
+		"/home/michaelmcpherson/src/clientSideBlogger/bloggingClientBase/css/pure-min.css",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/plot types",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/plot hooks",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/more dnd plots",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/event_villain_scratchList",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/dungeon goals",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/basicGenerator.php",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/05dndPlotList",
+		"/home/michaelmcpherson/Documents/smugdamian",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/README.md",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/css/style.css",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/js/themes/silver/theme.js",
+		"/home/michaelmcpherson/src/notMine/wysiwyg.css/wysiwyg.sass",
+		"/home/michaelmcpherson/src/notMine/wysiwyg.css/wysiwyg.css",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/session outilnes",
+		"/home/michaelmcpherson/src/gitRecurse/gitScan2.config",
+		"/home/michaelmcpherson/src/gitRecurse/gitScan.sh",
+		"/home/michaelmcpherson/src/gitRecurse/gitPull.config",
+		"/home/michaelmcpherson/src/gitRecurse/confBuilder.sh",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Beluin Keyran",
+		"/etc/php/7.3/apache2/php.ini",
+		"/home/michaelmcpherson/src/QueueOversightTool/linuxPass/dbConnector.php",
+		"/home/michaelmcpherson/src/steganograph/the prophet",
+		"/home/michaelmcpherson/src/steganograph/readText.php",
+		"/home/michaelmcpherson/src/steganograph/encode.php",
+		"/home/michaelmcpherson/src/steganograph/decode.php",
+		"/home/michaelmcpherson/src/quickscrape/vacuum.php",
+		"/home/michaelmcpherson/Downloads/glg.txt",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/js/helper.js",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/horribleCorpus.php",
+		"/home/michaelmcpherson/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/resources/logger.php",
+		"/home/michaelmcpherson/src/newUIframework/uiSite/js/app.js",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site/adventureGenerator/index.php",
+		"/home/michaelmcpherson/src/gitRecurse/gitScan.config",
+		"/home/michaelmcpherson/src/gitRecurse/dmg adventure generator text",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/siteVersion/strangegods/index.php",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/the strange gods of the land",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/Adventure Plotting",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/siteVersion/sessionNotes/Plot Episode 1",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/siteVersion/sessionNotes/Plot Episode 5",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/siteVersion/sessionNotes/Plot Episode 6",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/siteVersion/index.php",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/Episode 6",
+		"/home/michaelmcpherson/src/markov/markov_revision.php",
+		"/home/michaelmcpherson/src/markov/markov.php",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site/localeGenerator/index.php",
+		"/home/michaelmcpherson/src/Eliza/main.php",
+		"/home/michaelmcpherson/src/Eliza/src/Eliza.php",
+		"/home/michaelmcpherson/src/markov/text/horribleCorpus.txt",
+		"/home/michaelmcpherson/src/markov/text/calvin.txt",
+		"/home/michaelmcpherson/src/quickscrape/style.css",
+		"/home/michaelmcpherson/src/quickscrape/getPrevious.php",
+		"/home/michaelmcpherson/src/quickscrape/getNext.php",
+		"/home/michaelmcpherson/src/quickscrape/getCurrent.php",
+		"/home/michaelmcpherson/src/quickscrape/getFirst.php",
+		"/home/michaelmcpherson/src/quickscrape/index.php",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site/adventureGenerator/basicGenerator.php",
+		"/home/michaelmcpherson/src/quickscrape/dailyVacuum.php",
+		"/home/michaelmcpherson/src/quickscrape/.gitignore",
+		"/home/michaelmcpherson/src/writtenRecords/DnD/Necromancer Nine/`encounters to reskin",
+		"/home/michaelmcpherson/src/comnavnotes/ComNavNotes",
+		"/home/michaelmcpherson/src/akounting/akountingInstallstep",
+		"/home/michaelmcpherson/src/akounting/index.php",
+		"/home/michaelmcpherson/src/mathSite/index.php",
+		"/home/michaelmcpherson/src/mathSite/harder/index.php",
+		"/home/michaelmcpherson/src/mathSite/style.css",
+		"/home/michaelmcpherson/src/mathSite/base of screenshotting tool in wayland",
+		"/var/www/html/index.html",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site/settlementGenerator/index.php",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site/villainGenerator/index.php",
+		"/home/michaelmcpherson/src/DnDModuleGenerator/site/npcGenerator/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 157.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "modulegenerator.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 788.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
